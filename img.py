@@ -14,7 +14,7 @@ import streamlit as st
 
 
 
-openai.api_key = "sk-proj-fx2COeRAv9yt5opNBc4HT3BlbkFJBz8yhsODLcsGHCWfv8Mx"
+openai.api_key = "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"
 
 def generate_image(image_description):
 
